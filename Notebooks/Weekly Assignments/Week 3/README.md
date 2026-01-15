@@ -11,7 +11,9 @@ Key concepts used:
 - Conditional expressions (ternary operator)
 - String formatting (f-strings)
 
-## Program 2: Password Match Check                                                                                                     Prompts the user to enter a password twice and checks if both entries match.                                                           
+## Program 2: Password Match Check                                                                                                    
+prompts the users to enter a password twice and checks if both entries match.
+
 It does the followings:                                                                                                              - Takes two password inputs from the user.
 - Compares the two entries.
 - Prints confirmation if passwords match or an error message if they don’t.
@@ -21,7 +23,8 @@ Key concepts used:
 - String comparison
 - Conditional expression (ternary operator)
 
-## Program 3: Password Validation with Length Check                                                                                   Checks if the password entries match and whether the password length is between 8 and 12 characters.                               
+## Program 3: Password Validation with Length Check                                                                                   
+Checks if the password entries match and whether the password length is between 8 and 12 characters.
 
 It does the following:
 - Takes two password inputs.
@@ -35,7 +38,8 @@ Key concepts used:
 - Length check (len())
 - Conditional expressions
 
-## Program 4: Password Validation with Common Password Prevention                                                                      Extends password validation to prevent common weak passwords.                                                                           
+## Program 4: Password Validation with Common Password Prevention                                                                   
+Extends password validation to prevent common weak passwords
 It does the following:
 - Uses a predefined list of bad passwords.
 - Validates passwords like Program 3, but also ensures the password is not in the bad password list.
@@ -47,7 +51,8 @@ Key concepts used:
 - Logical operators and conditional expressions
 - User input and string operations
 
-## Program 5:  Password Entry Loop Until Valid                                                                                        Repeats password entry until the user chooses a valid password (matching, correct length, and not common).
+## Program 5:  Password Entry Loop Until Valid                                                                                        
+Repeats password entry until the user chooses a valid password (matching, correct length, and not common).
 
 It does the following:
 - Uses a while True loop to keep asking for passwords until they meet all criteria.
