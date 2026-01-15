@@ -1,7 +1,6 @@
 # Week 2 
 
 ## Program 1:  Friendly Greeting
-Description:
 This program asks the user to enter their name and then prints a friendly greeting message addressing the user by their name.
 
 It does the following:
@@ -10,10 +9,9 @@ It does the following:
 
 Key concepts used:
 - User input (input())
-- String formatting (f-strings)                                                                                                   
+- String formatting (f-strings)                                                                                                
 
 ## Program 2: Celsius to Fahrenheit Converter
-Description:
 This program converts a temperature given in Celsius to Fahrenheit.
 
 It does the following:
@@ -26,9 +24,8 @@ Key concepts used:
 - User input (input()) and type conversion to float
 - Arithmetic operations
 - String formatting (f-strings)
--
+
 ## Program 3: Grouping Students
-Description:
 This program calculates how many groups of students can be formed and how many students will be left over based on a specified group size.
 
 It does the following:
@@ -45,7 +42,6 @@ Key concepts used:
 - String formatting (f-strings)
 
 ## Program 4: Distributing Sweets Among Pupils
-Description:
 This program calculates how many sweets each pupil will get and how many sweets will remain undistributed.
 
 It does the following:
