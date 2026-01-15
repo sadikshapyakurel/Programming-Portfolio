@@ -1,0 +1,16 @@
+this
+is
+a
+sample
+file
+it
+contains
+test
+data
+the
+word
+appears
+here
+another
+line
+without

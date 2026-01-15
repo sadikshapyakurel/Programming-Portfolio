@@ -1,0 +1,5 @@
+This is a sample file.
+It contains test data.
+The word test appears here.
+Another line without the word.
+
