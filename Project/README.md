@@ -1,4 +1,4 @@
-# Projets
+# Project
 
 # Task 1: Pizza Price Calculator (4-for-3 Offer)
 
