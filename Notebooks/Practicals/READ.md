@@ -1,4 +1,4 @@
-## 📘 Practicals Included
+##  Practicals Work
 
 ### 00 – Introduction to GitHub
 - Learned basic GitHub concepts such as repositories and commits.
